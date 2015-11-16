@@ -1,0 +1,2 @@
+# gitRepository2
+测试MyEclipse Egit从GitHub远程仓库导入项目
