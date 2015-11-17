@@ -1,3 +1,4 @@
 1.测试的从远程仓库直接导入项目到MyEclipse
  1.把远程仓库也克隆下来了，Git Repository视图会出现克隆的本地仓库
  2.然后就是远程仓库里面的项目是可以直接导入的(Import existing projects这个选项，会列出所有项目)
+ 3.他妈的，我新建分支后在分支上使用HTTPS死活提交不成功，估计是Egit的Bug，使用SSH就提交成功了
